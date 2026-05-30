@@ -103,8 +103,4 @@ Business Highlights:
 - Project Report (PDF)
 - README.md
 
----
 
-## Dashboard Preview
-
-(Add your dashboard screenshots here)
